@@ -3,3 +3,5 @@
 <link rel="stylesheet" href="styles/bootstrap.css" />
 <link rel="stylesheet" href="styles/new_style.css" />
 <link rel="stylesheet" href="styles/main.css" />
+
+<script src="scripts/jquery.js" type="text/javascript"></script>
